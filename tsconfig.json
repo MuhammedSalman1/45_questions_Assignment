@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "target": "es2016",
+    "lib": ["es2016", "dom"] // Add "es2016" to the list of libraries
+  }
+}
